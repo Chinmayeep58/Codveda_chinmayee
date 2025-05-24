@@ -1,0 +1,23 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+    background-color: rgb(252, 242, 229);
+}
+
+ul{
+    list-style-type: none;
+    margin: 0px;
+}
+
+form{
+    align-items: center;
+    justify-content: center;
+}
+
+#user-entry{
+    background-color: antiquewhite;
+    height: 100px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
